@@ -8,11 +8,12 @@ import State from './Components/State';
 import Stateproject from './Components/Stateproject';
 import Stproject2 from './Components/Stproject2';
 import Stproject3 from './Components/Stproject3';
+import Stpro4 from './Components/Stpro4';
 
 function App() {
   return (
     <div className="App">
-<Stproject3></Stproject3>
+<Stpro4></Stpro4>
     </div>
   );
 }
